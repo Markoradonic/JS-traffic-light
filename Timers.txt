@@ -1,0 +1,8 @@
+
+Timers
+- seTimeout ()
+- setInterval ()
+
+- Obe funkcije zahtevaju dva argumenta
+1 - kod joi zelimo da se ivrsi // funkcija
+2 - vremenski interval
